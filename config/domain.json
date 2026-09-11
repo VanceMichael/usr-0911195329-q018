@@ -1,0 +1,6 @@
+{
+  "service_id": "ip-license",
+  "title": "潮流 IP 授权订单凭证库",
+  "health_path": "/health",
+  "port": 8080
+}
