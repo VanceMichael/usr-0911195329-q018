@@ -1,6 +1,7 @@
 {
   "service_id": "ip-license",
-  "title": "潮流 IP 授权订单凭证库",
+  "title": "关键信息基础设施安全巡检服务",
   "health_path": "/health",
-  "port": 8080
+  "port": 8080,
+  "display_name": "关键信息基础设施安全巡检服务"
 }
